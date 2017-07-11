@@ -12,5 +12,6 @@ public class HelloWord {
 	{
 		//stupid
 	}
-
+    
+	//注释
 }
