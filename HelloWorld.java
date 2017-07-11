@@ -19,6 +19,6 @@ public class HelloWord {
 		//stupid
 	}
 	//这是dec
-	//修改了一个bug
+
 }
  
