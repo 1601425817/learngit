@@ -13,4 +13,11 @@ public class HelloWord {
 		//stupid
 	}
 
+
+	public void speak()
+	{
+		//stupid
+	}
+	//这是dev
 }
+ 
